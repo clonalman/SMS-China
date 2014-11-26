@@ -24,7 +24,7 @@ java sample code:
 
                 Session session = conn.getSession();
 
-                String[] phones = new String[] { "13162645136" };
+                String[] phones = new String[] { "1316264XXXX" };
 
                 long startTime = System.currentTimeMillis();
                 try {
