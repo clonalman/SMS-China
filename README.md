@@ -3,6 +3,8 @@ SMS-China
 
 中国移动CMPP、联通SGIP、电信SMGP三网合一企业短信网关
 
+http://222.66.24.235:8080/ctmp/file/api.zip
+
 java sample code:
 
     public class SMGPTester {
